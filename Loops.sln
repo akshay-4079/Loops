@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopsEasy", "LoopsEasy\LoopsEasy.csproj", "{A1679F00-2FF1-4E89-B65F-B2B6CE5262D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopsMedium", "LoopsMedium\LoopsMedium.csproj", "{E27A34FB-EC23-43F8-975F-4DC2E3845724}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopsHArd", "LoopsHArd\LoopsHArd.csproj", "{E7204995-7972-4A51-9FBF-59BDE5138759}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1679F00-2FF1-4E89-B65F-B2B6CE5262D1}.Debug|x86.ActiveCfg = Debug|x86
+		{A1679F00-2FF1-4E89-B65F-B2B6CE5262D1}.Debug|x86.Build.0 = Debug|x86
+		{A1679F00-2FF1-4E89-B65F-B2B6CE5262D1}.Release|x86.ActiveCfg = Release|x86
+		{A1679F00-2FF1-4E89-B65F-B2B6CE5262D1}.Release|x86.Build.0 = Release|x86
+		{E27A34FB-EC23-43F8-975F-4DC2E3845724}.Debug|x86.ActiveCfg = Debug|x86
+		{E27A34FB-EC23-43F8-975F-4DC2E3845724}.Debug|x86.Build.0 = Debug|x86
+		{E27A34FB-EC23-43F8-975F-4DC2E3845724}.Release|x86.ActiveCfg = Release|x86
+		{E27A34FB-EC23-43F8-975F-4DC2E3845724}.Release|x86.Build.0 = Release|x86
+		{E7204995-7972-4A51-9FBF-59BDE5138759}.Debug|x86.ActiveCfg = Debug|x86
+		{E7204995-7972-4A51-9FBF-59BDE5138759}.Debug|x86.Build.0 = Debug|x86
+		{E7204995-7972-4A51-9FBF-59BDE5138759}.Release|x86.ActiveCfg = Release|x86
+		{E7204995-7972-4A51-9FBF-59BDE5138759}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
